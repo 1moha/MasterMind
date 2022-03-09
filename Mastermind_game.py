@@ -16,7 +16,6 @@
 # will than give a clue to the codebreaker each time. There are two clues the codebreaker might receive:
 # 2 - if the guess has a correct color in the correct position.
 # 1 - if the guess has a correct color, but in the wrong position.
-# Extra Credit: allow the computer and codebreaker to take turns
 
 # --------------------
 # program
