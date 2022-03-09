@@ -1,10 +1,4 @@
-# Name:        Mohammed Mohammud
-# Class:       CSC 110 - Spring 2021
-# Assignment:  Programming Project Implementation 
-# Due Date:    May 3, 2021
-
-# Program title:  Mastermind
-
+# Name: Mohammed Mohammud
 # --------------------
 # Project Description:
 # --------------------
